@@ -2,7 +2,7 @@
     <string name="app_name">Study Flow</string>
     <string name="welcome_description">Stay on top of your studies and daily tasks with personalized suggestions.</string>
     <string name="get_started">Get Started</string>
-    <string name="enter_time_hint">Enter time (e.g., Morning, Afternoon, Evening)</string>
+    <string name="enter_time_hint">Enter time (e.g., Morning,Mid Morning, Afternoon,Afternoon Snack, Dinner, After Dinner)</string>
     <string name="get_suggestion">Get Suggestion</string>
     <string name="reset">Reset</string>
     <string name="suggestion_prefix">Suggestion: </string>
