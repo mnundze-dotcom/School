@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Study Flow</string>
+    <string name="welcome_description">Stay on top of your studies and daily tasks with personalized suggestions.</string>
+    <string name="get_started">Get Started</string>
+    <string name="enter_time_hint">Enter time (e.g., Morning, Afternoon, Evening)</string>
+    <string name="get_suggestion">Get Suggestion</string>
+    <string name="reset">Reset</string>
+    <string name="suggestion_prefix">Suggestion: </string>
+    <string name="morning_suggestion">Start your day with your most challenging task while your mind is fresh!</string>
+    <string name="afternoon_suggestion">Time for a review or some practice problems. Stay hydrated!</string>
+    <string name="evening_suggestion">Summarize what you learned today and plan for tomorrow.</string>
+    <string name="night_suggestion">Light reading or reflection. Get enough sleep!</string>
+    <string name="unknown_suggestion">Keep up the great work! Enter a time of day to get a specific tip.</string>
+</resources>
